@@ -1,0 +1,25 @@
+# encoding: utf-8
+#
+# Never edit this file. It will be overwritten when translations are pulled from Transifex.
+#
+# To work with us on translations, join this project:
+# https://www.transifex.com/projects/p/discourse-org/
+
+ru:
+  site_settings:
+    solved_enabled: "Включить плагин, разрешающий помечать темы, содержащие решённые вопросы"
+    allow_solved_on_all_topics: "Разрешить пользователям отмечать ответы в темах (управляется в свойствах раздела)"
+    accept_all_solutions_trust_level: "Минимальный уровень доверия, необходимый для принятия решений по любой теме (даже если не OP)"
+    empty_box_on_unsolved: "Показывать пустой чекбокс рядом с нерешёнными темами"
+    solved_quote_length: "Количество символов при цитировании решения под первым сообщением"
+    solved_topics_auto_close_hours: "Автоматически закрыть тему через (n) часов после того, как тема была отмечена как решённая"
+    show_filter_by_solved_status: "Отображать раскрывающийся список для фильтрации тем по статусу <b>Решённые/Нерешённые</b>."
+  reports:
+    accepted_solutions:
+      title: "Решённые"
+      xaxis: "День"
+      yaxis: "Всего"
+  solved:
+    no_solutions:
+      self: "У вас пока нет решённых вопросов."
+      others: "Нет решённых вопросов."
